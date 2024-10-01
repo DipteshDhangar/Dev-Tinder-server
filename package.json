@@ -1,0 +1,19 @@
+{
+  "name": "dev-tinder-server",
+  "version": "1.0.0",
+  "description": "Dev-tinder MERN",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "nodeJS"
+  ],
+  "author": "shashank shrivastava",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "nodemon": "^3.1.7"
+  }
+}
